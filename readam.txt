@@ -1,0 +1,2 @@
+wangwq 
+print ('wangwq,hello world')
